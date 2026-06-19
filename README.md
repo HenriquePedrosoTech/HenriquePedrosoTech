@@ -6,7 +6,7 @@ Me chamo Henrique Pedroso, tenho 28 anos e sou natural de Itapeva-SP. Atualmente
 
 Na transição de carreira da área de investimentos para a tecnologia, trago uma bagagem única de visão analítica e foco em resultados, agora aplicada ao desenvolvimento web. Minha paixão é construir a parte visual de aplicações que sejam intuitivos, acessíveis e visualmente atraentes.
 
-Atualmente aprimorando minhas habilidades em ReactJS e NextJS e cursando Análise e Desenvolvimento de Sistemas. ..
+Atualmente aprimorando minhas habilidades em ReactJS e cursando Análise e Desenvolvimento de Sistemas. ..
 
 <p align="left">    
     <a href="https://github.com/HenriquePedrosoTech?tab=stars">
@@ -61,14 +61,14 @@ Atualmente aprimorando minhas habilidades em ReactJS e NextJS e cursando Anális
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-<img 
+<!-- <img 
     align="left" 
     alt="Next.js" 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
+/> -->
 <img 
     align="left" 
     alt="Bootstrap"
