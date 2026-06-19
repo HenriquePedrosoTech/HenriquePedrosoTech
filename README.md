@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Henrique Pedroso, tenho 28 anos e sou natural de Itapeva-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade IMES. Sou apaixonado por transformar ideias em interfaces web incríveis e experiências de usuário memorável. 🚀
+Me chamo Henrique Pedroso, tenho 29 anos e sou natural de Itapeva-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade IMES. Sou apaixonado por transformar ideias em interfaces web incríveis e experiências de usuário memorável. 🚀
 
 Na transição de carreira da área de investimentos para a tecnologia, trago uma bagagem única de visão analítica e foco em resultados, agora aplicada ao desenvolvimento web. Minha paixão é construir a parte visual de aplicações que sejam intuitivos, acessíveis e visualmente atraentes.
 
